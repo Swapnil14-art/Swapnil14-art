@@ -459,7 +459,7 @@
 
 <!-- ════════════════ CONTACT TERMINAL ════════════════ -->
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dva2t6dnFoOWMwM3MyZnBqdGRmc3d3bDd1Nmo2dzJzMmJmczZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="30"> COMMS_ARRAY // OPEN CHANNEL
+## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/xT9IgG50Fb7Mi0prBC.webp" width="30"> COMMS_ARRAY // OPEN CHANNEL
 <div align="center">
 
 ```
