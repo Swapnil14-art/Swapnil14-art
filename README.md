@@ -165,7 +165,7 @@
 
 <!-- ════════════════ AI DASHBOARD ════════════════ -->
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120"> NEURAL_PROFICIENCY.dashboard
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> NEURAL_PROFICIENCY.dashboard
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -190,7 +190,7 @@
 
 <!-- ════════════════ EXPERIENCE ════════════════ -->
 
-## <img src="https://github.com/Swapnil14-art/Swapnil14-art/Gifs/Working.webp" width="120"> WORK_HISTORY.log
+## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/Working.gif" width="120"> WORK_HISTORY.log
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
