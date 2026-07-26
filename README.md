@@ -360,7 +360,7 @@
 ```
 
 <div align="center">
-<img src="https://media.giphy.com/media/xTiTnJ3BooiDs8dL7W/giphy.gif" width="320" alt="Minecraft animated"/>
+<img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/minecraft.gif" width="320" alt="Minecraft animated"/>
 </div>
 
 ---
