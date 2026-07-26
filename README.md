@@ -58,7 +58,7 @@
 
 <!-- ════════════════ TERMINAL INTRO ════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `root@swapnil-os:~$` INIT_SEQUENCE
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> `root@swapnil-os:~$` INIT_SEQUENCE
 
 ```bash
 ┌──(swapnil㉿neural-core)-[~]
@@ -92,7 +92,7 @@
 
 <!-- ════════════════ ABOUT ME DASHBOARD ════════════════ -->
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> ABOUT.exe
+## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/laptop.webp" width="120"> ABOUT.exe
 
 <table align="center" width="100%">
 <tr>
@@ -133,7 +133,7 @@
 
 <!-- ════════════════ TECH STACK ════════════════ -->
 
-## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"> TECH_ARSENAL.sys
+## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="120"> TECH_ARSENAL.sys
 
 <div align="center">
 
@@ -165,7 +165,7 @@
 
 <!-- ════════════════ AI DASHBOARD ════════════════ -->
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> NEURAL_PROFICIENCY.dashboard
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120"> NEURAL_PROFICIENCY.dashboard
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -190,7 +190,7 @@
 
 <!-- ════════════════ EXPERIENCE ════════════════ -->
 
-## <img src="https://github.com/Swapnil14-art/Swapnil14-art/Gifs/Working.webp" width="30"> WORK_HISTORY.log
+## <img src="https://github.com/Swapnil14-art/Swapnil14-art/Gifs/Working.webp" width="120"> WORK_HISTORY.log
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -211,7 +211,7 @@
 
 <!-- ════════════════ PROJECT SHOWCASE ════════════════ -->
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> DEPLOYED_PROJECTS.registry
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> DEPLOYED_PROJECTS.registry
 
 <div align="center">
 <table>
@@ -305,7 +305,7 @@
 
 <!-- ════════════════ LEADERSHIP / ACHIEVEMENTS ════════════════ -->
 
-## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/simpsongs.gif" width="60"> LEADERSHIP & ACHIEVEMENTS.log
+## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/simpsons.gif" width="120"> LEADERSHIP & ACHIEVEMENTS.log
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -335,7 +335,7 @@
 
 <!-- ════════════════ MINECRAFT SECTION ════════════════ -->
 
-## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/minecraftrealm.gif" width="60"> MINECRAFT_REALM.dat
+## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/minecraftrealm.gif" width="120"> MINECRAFT_REALM.dat
 
 ```
 ██╗███╗   ██╗██╗   ██╗███████╗███╗   ██╗████████╗ ██████╗ ██████╗ ██╗   ██╗
