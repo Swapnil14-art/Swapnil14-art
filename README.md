@@ -385,7 +385,7 @@
 
 [ HOTBAR ]
 ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┐
-│ 🗡️  │ ⛏️ │  🪓 │ 🏹 │ 🧱  │ 🔥 │ 💎  │ 🐚 │ 🍖 │
+│ 🗡️  │ ⛏️ │  🪓 │ 🏹 │ 🧱  │ 🔥 │ 💎  │ 🐚 │ 🍖  │
 └─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┘
   Sword  Pick  Axe  Bow  Blocks Fire Diamond Shell Food
 
@@ -405,7 +405,7 @@
 
 <!-- ════════════════ CYBERPUNK SECTION ════════════════ -->
 
-## <img src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" width="30"> NIGHT_CITY // NETRUNNER PROFILE
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWp6eGMwcHRhc282aTRmaWR1ZzcwOXU1ZjdrM2RoN3Q0cG14M3JoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKz2eMXx7dn95FS/giphy.gif" width="30"> NIGHT_CITY // NETRUNNER PROFILE
 
 <div align="center">
 <img src="https://media.giphy.com/media/gLcvI6TrKDaqOxDaMS/giphy.gif" width="100%" alt="cyberpunk city"/>
@@ -459,8 +459,7 @@
 
 <!-- ════════════════ CONTACT TERMINAL ════════════════ -->
 
-## <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="30"> COMMS_ARRAY // OPEN CHANNEL
-
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dva2t6dnFoOWMwM3MyZnBqdGRmc3d3bDd1Nmo2dzJzMmJmczZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="30"> COMMS_ARRAY // OPEN CHANNEL
 <div align="center">
 
 ```
@@ -471,7 +470,7 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-singh-76883a329)
-[![Email](https://img.shields.io/badge/Email-B026FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilsingh8288@gmail.com)
+[![Email](https://img.shields.io/badge/Email-B026FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wwhheeeellss20068288@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil14-art)
 
 </div>
@@ -493,8 +492,6 @@
 **MISSION COMPLETE — THANK YOU FOR VISITING**
 
 `> see you in the next commit_`
-
-![Visitor Count](https://profile-counter.glitch.me/Swapnil14-art/count.svg)
 
 </div>
 
