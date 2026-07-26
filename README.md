@@ -1,13 +1,10 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
-  ║  SWAPNIL_OS README.md                                              ║
-  ║  TODO: Replace every instance of "swapnil-dev" below with your     ║
-  ║        real GitHub username (case-sensitive) — used in stats,      ║
-  ║        streak, trophies, snake animation, and view-counter URLs.   ║
-  ║  TODO: Replace SPOTIFY_UID with your own uid from                  ║
-  ║        https://github.com/kittinan/spotify-github-profile (Spotify ║
-  ║        animated widget needs a one-time free Vercel deploy + login)║
-  ║  TODO: Replace LEETCODE_USERNAME, DISCORD_ID, and contact links.   ║
+  ║  SWAPNIL_OS README.md — github.com/Swapnil14-art                   ║
+  ║  A note on the phone number from your resume: it's intentionally    ║
+  ║  left OUT of this public README to avoid spam bots scraping it.     ║
+  ║  Email + LinkedIn + GitHub are enough for recruiters to reach you.  ║
+  ║  Add it back yourself in the CONTACT section if you really want to. ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
@@ -15,13 +12,11 @@
 
 <!-- ════════════════ BOOT SEQUENCE ════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=500&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=200&lines=Booting+SWAPNIL_OS+v4.0...;Loading+Neural+Engine...;Initializing+J.A.R.V.I.S+Core...;Connecting+to+GitHub+Mainframe...;Loading+Cyberpunk+Modules...;Joining+Minecraft+Realm...;Access+Granted." alt="Boot Sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1200&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=340&lines=Booting+SWAPNIL_OS+v4.0...;;Loading+Neural+Engine...;;Initializing+J.A.R.V.I.S+Core...;;Connecting+to+GitHub+Mainframe...;;Loading+RAG+%2F+LangChain+Modules...;;Access+Granted." alt="Boot Sequence" />
 
 <br/>
 
-![Matrix Rain](https://raw.githubusercontent.com/aditya-jaiswal-101/aditya-jaiswal-101/output/pacman-contribution-graph.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=SWAPNIL%20//%20SYSTEM%20ONLINE&fontSize=42&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=Neural-Linked%20Developer%20%7C%20AI%20%2F%20ML%20%2F%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=SWAPNIL%20SINGH%20//%20SYSTEM%20ONLINE&fontSize=38&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=BTech%20CSE%20%40%20NMIMS%20MPSTME%20%7C%20AI%20%2F%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
@@ -53,8 +48,8 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=swapnil-dev&label=NEURAL+SCANS&color=00F0FF&style=for-the-badge)](https://github.com/swapnil-dev)
-[![Followers](https://img.shields.io/github/followers/swapnil-dev?label=UPLINKS&style=for-the-badge&color=B026FF&logo=github)](https://github.com/swapnil-dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=Swapnil14-art&label=NEURAL+SCANS&color=00F0FF&style=for-the-badge)](https://github.com/Swapnil14-art)
+[![Followers](https://img.shields.io/github/followers/Swapnil14-art?label=UPLINKS&style=for-the-badge&color=B026FF&logo=github)](https://github.com/Swapnil14-art)
 [![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 
 </div>
@@ -68,29 +63,29 @@
 ```bash
 ┌──(swapnil㉿neural-core)-[~]
 └─$ whoami
-> Swapnil — Computer Science Student
+> Swapnil Singh — BTech CSE, NMIMS MPSTME Shirpur (2024–2028)
 
 ┌──(swapnil㉿neural-core)-[~]
-└─$ cat interests.log
-> [AI]         Artificial Intelligence
-> [ML]         Machine Learning
-> [OSS]        Open Source Contribution
-> [GAME]       Minecraft
-> [AESTHETIC]  Cyberpunk
-> [GOAL]       Building Cool Stuff
+└─$ cat about.log
+> Second-year CS student focused on building real-world,
+> scalable systems — from RAG pipelines to full-stack platforms.
 
 ┌──(swapnil㉿neural-core)-[~]
-└─$ cat currently_learning.log
-> System Design
-> Deep Learning
-> Cloud Infrastructure
+└─$ cat stack.log
+> Python | JavaScript | Next.js | Node.js
+> LangChain | MongoDB | Supabase | Vercel
+
+┌──(swapnil㉿neural-core)-[~]
+└─$ cat currently_building.log
+> Event Management System (EMS) — final approval stage, NMIMS
+> Campus Digital Leave Management System (CampusGrid)
 
 ┌──(swapnil㉿neural-core)-[~]
 └─$ status --check
 > [OK] NEURAL LINK ......... ONLINE
-> [OK] CAFFEINE LEVEL ....... 94%
-> [OK] BUGS SQUASHED TODAY ... COUNTING
-> [OK] MOOD ................. SHIPPING CODE
+> [OK] AI INTERNSHIP ........ COMPLETE (RIB Software)
+> [OK] LIVE PROJECTS ........ 1 SHIPPED, 2 IN PROGRESS
+> [OK] MOOD .................. SHIPPING CODE
 ```
 
 ---
@@ -107,12 +102,12 @@
 ╔══════════════════════════════════╗
 ║  IDENTITY MODULE                  ║
 ╠══════════════════════════════════╣
-║  ▸ Class........ CS Student       ║
-║  ▸ Faction...... Open Source      ║
-║  ▸ Alignment.... Chaotic Good     ║
-║  ▸ Weapon....... Keyboard, mk.VII ║
-║  ▸ Companion.... Rubber Duck      ║
-║  ▸ Guild........ github.com/*     ║
+║  ▸ Name......... Swapnil Singh    ║
+║  ▸ Class........ BTech CSE        ║
+║  ▸ Campus....... NMIMS MPSTME     ║
+║                   Shirpur         ║
+║  ▸ Cohort....... 2024 – 2028      ║
+║  ▸ Focus........ AI + Full-Stack  ║
 ╚══════════════════════════════════╝
 ```
 
@@ -123,11 +118,11 @@
 ╔══════════════════════════════════╗
 ║  MISSION LOG                      ║
 ╠══════════════════════════════════╣
-║  ➤ Building AI-powered tools      ║
-║  ➤ Exploring deep learning arch.  ║
-║  ➤ Contributing to open source    ║
-║  ➤ Designing scalable systems     ║
-║  ➤ Speed-running Minecraft advs.  ║
+║  ➤ Ex-AI Intern @ RIB Software    ║
+║  ➤ Technical Convener, AMBIORA    ║
+║  ➤ Built RAG pipelines w/ HyDE    ║
+║  ➤ Shipped a live esports platform║
+║  ➤ Building campus-scale systems  ║
 ╚══════════════════════════════════╝
 ```
 
@@ -145,42 +140,25 @@
 
 **◢ LANGUAGES ◣**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,go,rust&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" />
 
-**◢ FRONTEND ◣**
+**◢ FRAMEWORKS / RUNTIME ◣**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs&theme=dark" />
 
-**◢ BACKEND ◣**
+**◢ AI / RAG ◣**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_%2F_HyDE-B026FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_DB-00F0FF?style=for-the-badge&logo=databricks&logoColor=black" />
 
-**◢ DATABASES ◣**
+**◢ DATABASE / BACKEND-AS-A-SERVICE ◣**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,supabase&theme=dark" />
 
-**◢ AI / ML ◣**
+**◢ DEPLOYMENT ◣**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-**◢ CLOUD ◣**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,cloudflare&theme=dark" />
-
-**◢ DEVOPS ◣**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,terraform&theme=dark" />
-
-**◢ TOOLS ◣**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vim&theme=dark" />
-
-**◢ OPERATING SYSTEMS ◣**
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,git,github&theme=dark" />
 
 </div>
 
@@ -194,14 +172,14 @@
 ┌─────────────────────────────────────────────────────┐
 │  SKILL CALIBRATION MATRIX                            │
 ├─────────────────────────────────────────────────────┤
-│  Python          ██████████████████░░  90%           │
-│  Machine Learning████████████████░░░░  80%            │
-│  Deep Learning   ████████████░░░░░░░░  60%            │
-│  React / Next.js ███████████████████░  95%            │
-│  System Design   █████████████░░░░░░░  65%            │
-│  Docker / K8s    ██████████████░░░░░░  70%            │
-│  Cloud (AWS/GCP) ███████████░░░░░░░░░  55%            │
-│  Git / GitHub    ████████████████████  100%           │
+│  Python           ████████████████░░░░  80%          │
+│  JavaScript        ██████████████░░░░░░  70%          │
+│  Next.js / React   ████████████████░░░░  80%          │
+│  Node.js           ██████████████░░░░░░  70%          │
+│  LangChain / RAG   ██████████████████░░  90%          │
+│  MongoDB           █████████████░░░░░░░  65%          │
+│  Supabase          ███████████████░░░░░  75%          │
+│  Git / GitHub      ████████████████████  100%         │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -211,18 +189,39 @@
 
 ---
 
+<!-- ════════════════ EXPERIENCE ════════════════ -->
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> WORK_HISTORY.log
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║  AI INTERN — RIB Software           [ June – July ]         ║
+╠═══════════════════════════════════════════════════════════╣
+║  ▸ Built a PDF-based RAG chatbot using LangChain,           ║
+║    designing the full pipeline end-to-end                   ║
+║  ▸ Preprocessed PDFs with chunking strategies for            ║
+║    retrieval-ready content                                   ║
+║  ▸ Stored & queried chunks via a vector database for         ║
+║    semantic search                                            ║
+║  ▸ Implemented HyDE (Hypothetical Document Embeddings)       ║
+║    to improve retrieval relevance                             ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+---
+
 <!-- ════════════════ GITHUB STATS ════════════════ -->
 
 ## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> MAINFRAME_TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swapnil-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=B026FF&currStreakLabel=00F0FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Swapnil14-art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil14-art&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=B026FF&currStreakLabel=00F0FF" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil14-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="45%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnil-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=B026FF&point=39FF14" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swapnil14-art&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=B026FF&point=39FF14" width="90%" />
 
 </div>
 
@@ -230,97 +229,152 @@
 <summary><b>◤ GITHUB TROPHY CASE ◢</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=swapnil-dev&theme=algolia&no-frame=true&row=2&column=4" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Swapnil14-art&theme=algolia&no-frame=true&row=2&column=4" width="90%"/>
 </div>
 </details>
 
 <details>
-<summary><b>◤ CONTRIBUTION SKYLINE ◢</b></summary>
+<summary><b>◤ CONTRIBUTION SNAKE ◢</b></summary>
 <br/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/swapnil-dev/swapnil-dev/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-<br/><sub>3D skyline: <code>https://skyline.github.com/swapnil-dev/2026</code></sub>
+<img src="https://raw.githubusercontent.com/Swapnil14-art/Swapnil14-art/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<br/><sub>3D skyline: <code>https://skyline.github.com/Swapnil14-art/2026</code></sub>
 </div>
 </details>
 
 <div align="center">
-<sub>Snake animation auto-generated via a GitHub Action — see setup notes at bottom of file.</sub>
+<sub>Snake animation is auto-generated by a GitHub Action, not a manual upload — see setup notes at the bottom of this file.</sub>
 </div>
 
 ---
 
-<!-- ════════════════ LEETCODE ════════════════ -->
+<!-- ════════════════ PROJECT SHOWCASE ════════════════ -->
 
-## <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="30"> ALGORITHM_COMBAT_LOG
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> DEPLOYED_PROJECTS.registry
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" />
+```
+┌──────────────────────────────────┐
+│ 🏆 AMBIORA ESPORTS PLATFORM        │
+│    Live — April '26                │
+├──────────────────────────────────┤
+│ Tournament management system for  │
+│ a live tech fest. Role-based      │
+│ Admin/Game Leader access, auto    │
+│ bracket generation & scheduling.  │
+│ Managed 40+ teams, 45+ players,   │
+│ 25+ matches. Cut manual effort    │
+│ by 80–90%.                        │
+│                                    │
+│ [Next.js] [Supabase] [Full Stack] │
+└──────────────────────────────────┘
+```
 
+</td>
+<td width="50%">
+
+```
+┌──────────────────────────────────┐
+│ 🗂️ EVENT MANAGEMENT SYSTEM (EMS)   │
+│    Final approval stage            │
+├──────────────────────────────────┤
+│ Centralized platform to manage    │
+│ event workflows, registrations    │
+│ and coordination. Structured for  │
+│ participant data, scheduling and  │
+│ real-time tracking. Cleared all   │
+│ approvals with Campus Director,   │
+│ NMIMS Shirpur.                     │
+│                                    │
+│ [Next.js] [Node.js] [MongoDB]     │
+└──────────────────────────────────┘
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+```
+┌──────────────────────────────────┐
+│ 🛂 CAMPUSGRID — LEAVE SYSTEM       │
+├──────────────────────────────────┤
+│ Role-based leave management for   │
+│ Student / Warden / Guard.         │
+│ PENDING → APPROVED → OUT →        │
+│ RETURNED lifecycle. QR-based      │
+│ transit verification for secure   │
+│ exit/entry. Real-time dashboards. │
+│                                    │
+│ [Supabase Auth] [Next.js] [QR]    │
+└──────────────────────────────────┘
+```
+
+</td>
+<td width="50%">
+
+```
+┌──────────────────────────────────┐
+│ 🤖 PDF RAG CHATBOT                 │
+├──────────────────────────────────┤
+│ RAG chatbot answering questions   │
+│ over PDF documents. Full          │
+│ LangChain pipeline, chunked text  │
+│ in a vector database, HyDE for    │
+│ improved retrieval accuracy.      │
+│                                    │
+│ [LangChain] [Python] [Vector DB]  │
+└──────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 </div>
 
-```
-┌────────────────────────────────────┐
-│  COMBAT STATS                       │
-├────────────────────────────────────┤
-│  Easy    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  85%    │
-│  Medium  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░  55%    │
-│  Hard    ▓▓▓▓░░░░░░░░░░░░░░  20%    │
-└────────────────────────────────────┘
-```
+<div align="center">
+<i>TODO: link each card's repo — replace with your actual GitHub URLs, e.g. github.com/Swapnil14-art/ambiora-esports</i>
+</div>
 
 ---
 
-<!-- ════════════════ SPOTIFY ════════════════ -->
+<!-- ════════════════ LEADERSHIP / ACHIEVEMENTS ════════════════ -->
 
-## <img src="https://media.giphy.com/media/xUOxfjsW2KFz1DFvV6/giphy.gif" width="30"> AUDIO_UPLINK // NOW STREAMING
+## <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="30"> LEADERSHIP & ACHIEVEMENTS.log
 
-<div align="center">
-
-<!-- Animated "now playing" widget (kittinan/spotify-github-profile) -->
-<img src="https://novatorem-swapnil-dev.vercel.app/api/spotify" width="480" alt="Spotify GIF" />
-
-<sub>▲ live now-playing card — requires a free 2-min Vercel deploy of
-<a href="https://github.com/kittinan/spotify-github-profile">kittinan/spotify-github-profile</a>
-linked to your Spotify account. Swap the URL above for your deployed instance once live.</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**◢◤ FAVORITE FREQUENCIES ◢◤**
-
-| # | Track | Artist | Vibe |
-|---|-------|--------|------|
-| 01 | Minecraft | C418 | `nostalgia.exe` |
-| 02 | Sweden | C418 | `chill_core` |
-| 03 | Mice on Venus | C418 | `ambient_drift` |
-| 04 | Subwoofer Lullaby | C418 | `late_night_build` |
-| 05 | Wet Hands | C418 | `focus_mode` |
-| 06 | Living Mice | C418 | `deep_work` |
-| 07 | Never Fade Away | P.T. Adamczyk | `cyberpunk_2077` |
-| 08 | The Rebel Path | P.T. Adamczyk | `netrunner_ost` |
-| 09 | I Really Want to Stay at Your House | Rosa Walton | `edgerunners_feels` |
-| 10 | Force Projection | Olivier Deriviere | `cyberpunk_2077` |
-| 11 | Time | Hans Zimmer | `inception_core` |
-| 12 | Cornfield Chase | Hans Zimmer | `interstellar_launch` |
-| 13 | Interstellar Main Theme | Hans Zimmer | `deep_space` |
-| 14 | Oppenheimer (Main Theme) | Ludwig Göransson | `intensity_max` |
-| 15 | Tron Legacy (End Titles) | Daft Punk | `synth_grid` |
-
-</div>
+```
+┌────────────────────────────────────────────────────┐
+│  POSITIONS OF RESPONSIBILITY                        │
+├────────────────────────────────────────────────────┤
+│  ▸ Technical Convener — AMBIORA TechFest            │
+│    Led technical execution of esports & tech events │
+│    Managed deployment & real-time troubleshooting   │
+│                                                       │
+│  ▸ Core Committee — Event Management                │
+│    Organized hackathons, cybersecurity events,       │
+│    esports tournaments; logistics & real-time        │
+│    problem solving                                    │
+│                                                       │
+│  ▸ Computer Society of India (CSI)                   │
+│    Assisted in organizing technical events/workshops │
+├────────────────────────────────────────────────────┤
+│  ACHIEVEMENTS                                         │
+├────────────────────────────────────────────────────┤
+│  ★ UNHRC (MUN) Delegate                               │
+│  ★ Google Cloud Study Jam                             │
+│  ★ DPS National Football Tournament                   │
+└────────────────────────────────────────────────────┘
+```
 
 ---
 
 <!-- ════════════════ MINECRAFT SECTION ════════════════ -->
 
 ## <img src="https://media.giphy.com/media/6ZmH1DACfaHXjebbWK/giphy.gif" width="30"> MINECRAFT_REALM.dat
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/gist/anuraghazra/86baffd0f8b47e2e58a9b5b8d9d99b60/raw/minecraft-pixel-divider.gif" width="100%" alt="pixel divider"/>
-</div>
 
 ```
 ██╗███╗   ██╗██╗   ██╗███████╗███╗   ██╗████████╗ ██████╗ ██████╗ ██╗   ██╗
@@ -339,13 +393,6 @@ linked to your Spotify account. Swap the URL above for your deployed instance on
 [ HEALTH ]   ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️  20/20
 [ HUNGER ]   🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗  20/20
 [ XP BAR ]   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  LVL 47
-
-[ SKILL LEVELS ]
-  Mining ......... ▓▓▓▓▓▓▓▓▓▓ 100  (Diamond Tier)
-  Redstone ....... ▓▓▓▓▓▓░░░░  60  (Adept)
-  PvP ............ ▓▓▓▓▓░░░░░  50  (Survivor)
-  Building ....... ▓▓▓▓▓▓▓▓▓░  90  (Architect)
-  Speedrunning ... ▓▓▓░░░░░░░  30  (Nether Novice)
 
 [ NETHER PORTAL STATUS ]   ▓▓▓▓▓▓▓▓▓▓  ACTIVE — obsidian frame stable
 ```
@@ -370,20 +417,14 @@ linked to your Spotify account. Swap the URL above for your deployed instance on
 ╠════════════════════════════════════════════════════╣
 ║  CYBERWARE                                           ║
 ║   ▸ Kiroshi Optics Mk.3 ......... INSTALLED          ║
-║   ▸ Mantis Blades ............... INSTALLED          ║
+║   ▸ RAG Neural Implant .......... INSTALLED          ║
 ║   ▸ Sandevistan .................. CHARGING (78%)     ║
 ║                                                        ║
 ║  RAM (HACKING BUFFER)                                 ║
 ║   ▓▓▓▓▓▓▓▓░░  8/10 UNITS FREE                        ║
 ║                                                        ║
-║  QUICKHACKS                                           ║
-║   ▸ Contagion ..... READY                            ║
-║   ▸ Short Circuit .. READY                            ║
-║   ▸ Memory Wipe .... COOLDOWN 00:12                   ║
-║                                                        ║
 ║  NEURAL LINK ......... STABLE                         ║
 ║  POWER LEVEL .......... ▓▓▓▓▓▓▓▓▓░ 92%                ║
-║  STREET CRED .......... LEGEND                        ║
 ║  STATUS ................ JACKED IN                    ║
 ╚════════════════════════════════════════════════════╝
 ```
@@ -405,95 +446,12 @@ linked to your Spotify account. Swap the URL above for your deployed instance on
 │  CPU USAGE ........... ▓▓▓▓▓▓▓░░░  71%        │
 │  NEURAL ENGINE ........ ▓▓▓▓▓▓▓▓▓░ 95%        │
 │  POWER CORE (ARC) ..... ▓▓▓▓▓▓▓▓▓▓ 100%       │
-│  VOICE ASSISTANT ....... ONLINE               │
 │  MISSION STATUS ........ IN PROGRESS          │
-│  THREAT ANALYSIS ....... NO ANOMALIES FOUND   │
 ├──────────────────────────────────────────────┤
 │  "Sir, all systems are optimal.               │
 │   Shall I deploy today's commits?"            │
 └──────────────────────────────────────────────┘
 ```
-
----
-
-<!-- ════════════════ PROJECT SHOWCASE ════════════════ -->
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> DEPLOYED_PROJECTS.registry
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-```
-┌──────────────────────────────┐
-│ ⚡ PROJECT_ALPHA               │
-├──────────────────────────────┤
-│ AI-powered application built  │
-│ with a modern full-stack      │
-│ pipeline.                     │
-│                                │
-│ [React] [Node] [PostgreSQL]   │
-│ ★ github.com/swapnil-dev/...  │
-└──────────────────────────────┘
-```
-
-</td>
-<td width="50%">
-
-```
-┌──────────────────────────────┐
-│ 🔮 PROJECT_BETA                │
-├──────────────────────────────┤
-│ Machine learning pipeline for │
-│ predictive analytics with a   │
-│ live dashboard.                │
-│                                │
-│ [Python] [PyTorch] [FastAPI]  │
-│ ★ github.com/swapnil-dev/...  │
-└──────────────────────────────┘
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-```
-┌──────────────────────────────┐
-│ 🧩 PROJECT_GAMMA               │
-├──────────────────────────────┤
-│ Open-source developer tool    │
-│ improving workflow efficiency.│
-│                                │
-│ [TypeScript] [CLI] [Docker]   │
-│ ★ github.com/swapnil-dev/...  │
-└──────────────────────────────┘
-```
-
-</td>
-<td width="50%">
-
-```
-┌──────────────────────────────┐
-│ 🛰️ PROJECT_DELTA               │
-├──────────────────────────────┤
-│ Cloud-native microservice     │
-│ architecture demo.             │
-│                                │
-│ [Go] [Kubernetes] [gRPC]      │
-│ ★ github.com/swapnil-dev/...  │
-└──────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<i>TODO: swap the placeholder project cards above for your actual pinned repos.</i>
-</div>
 
 ---
 
@@ -510,12 +468,9 @@ linked to your Spotify account. Swap the URL above for your deployed instance on
 └────────────────────────────────────────────┘
 ```
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/DISCORD_ID)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://swapnil.dev)
-[![Email](https://img.shields.io/badge/Email-B026FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnil@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/swapnil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnil-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-singh-76883a329)
+[![Email](https://img.shields.io/badge/Email-B026FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilsingh8288@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil14-art)
 
 </div>
 
@@ -523,9 +478,8 @@ linked to your Spotify account. Swap the URL above for your deployed instance on
   ◤ EASTER EGG ◢
   If you're reading the raw source, congratulations, hacker.
   > sudo access_granted --level=friend
-  > fun_fact: this README boots faster than most real operating systems.
   > "Sometimes you gotta run before you can walk." — Tony Stark
-  > [x] Diamonds acquired.  [x] Portal lit.  [ ] Ender Dragon defeated.
+  > [x] RAG pipeline shipped.  [x] Portal lit.  [ ] Ender Dragon defeated.
 -->
 
 ---
@@ -538,19 +492,19 @@ linked to your Spotify account. Swap the URL above for your deployed instance on
 
 `> see you in the next commit_`
 
-![Visitor Count](https://profile-counter.glitch.me/swapnil-dev/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Swapnil14-art/count.svg)
 
 </div>
 
 <!--
   ════════════ SETUP NOTES ════════════
-  1. Replace "swapnil-dev" everywhere with your real GitHub username.
-  2. Snake animation: add anuraghazra/github-actions-snake-generator
-     as a GitHub Action in a repo named exactly like your username,
-     it will auto-generate the `output/*.svg` files referenced above.
-  3. Spotify widget: deploy kittinan/spotify-github-profile to Vercel,
-     connect your Spotify account, then swap the widget URL.
-  4. LeetCode card: replace LEETCODE_USERNAME with your handle.
-  5. assets/profile.gif: add your own animated avatar to an `assets/`
-     folder in this repo.
+  1. Username "Swapnil14-art" is already wired into every stats/streak/
+     trophy/snake/view-counter URL above — no more find-and-replace needed.
+  2. Snake animation: create a repo named EXACTLY "Swapnil14-art"
+     (a "profile repo"), add the anuraghazra/github-actions-snake-generator
+     action to it, and it will auto-generate the output/*.svg files the
+     snake image above points to.
+  3. LeetCode/Spotify sections were left out this round since they
+     weren't in your resume — say the word and I'll add them back in
+     with your actual handles.
 -->
