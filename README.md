@@ -33,7 +33,7 @@
 <tr>
 <td align="center" width="100%">
 
-<img src="assets/profile.gif" width="180" style="border-radius:50%;" alt="Swapnil Hologram" />
+<img src="assets/profile.gifhttps://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/Profile.jpg" width="180" style="border-radius:50%;" alt="Swapnil Hologram" />
 
 <br/>
 
