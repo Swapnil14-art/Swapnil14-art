@@ -1,11 +1,11 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  SWAPNIL_OS README.md — github.com/Swapnil14-art                   ║
+  ╔═════════════════════════════════════════════════════════════════════╗
+  ║  SWAPNIL_OS README.md — github.com/Swapnil14-art                    ║
   ║  A note on the phone number from your resume: it's intentionally    ║
   ║  left OUT of this public README to avoid spam bots scraping it.     ║
   ║  Email + LinkedIn + GitHub are enough for recruiters to reach you.  ║
   ║  Add it back yourself in the CONTACT section if you really want to. ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  ╚═════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
@@ -99,31 +99,30 @@
 <td width="50%" valign="top">
 
 ```
-╔══════════════════════════════════╗
-║  IDENTITY MODULE                  ║
-╠══════════════════════════════════╣
-║  ▸ Name......... Swapnil Singh    ║
-║  ▸ Class........ BTech CSE        ║
-║  ▸ Campus....... NMIMS MPSTME     ║
-║                   Shirpur         ║
-║  ▸ Cohort....... 2024 – 2028      ║
-║  ▸ Focus........ AI + Full-Stack  ║
-╚══════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║  IDENTITY MODULE                         ║
+╠══════════════════════════════════════════╣
+║  ▸ Name......... Swapnil Singh           ║
+║  ▸ Class........ BTech CSE               ║
+║  ▸ Campus....... NMIMS MPSTME, Shirpur   ║
+║  ▸ Cohort....... 2024 – 2028             ║
+║  ▸ Focus........ AI + Full-Stack         ║
+╚══════════════════════════════════════════╝
 ```
 
 </td>
 <td width="50%" valign="top">
 
 ```
-╔══════════════════════════════════╗
-║  MISSION LOG                      ║
-╠══════════════════════════════════╣
-║  ➤ Ex-AI Intern @ RIB Software    ║
-║  ➤ Technical Convener, AMBIORA    ║
-║  ➤ Built RAG pipelines w/ HyDE    ║
-║  ➤ Shipped a live esports platform║
-║  ➤ Building campus-scale systems  ║
-╚══════════════════════════════════╝
+╔═════════════════════════════════════╗
+║  MISSION LOG                        ║
+╠═════════════════════════════════════╣
+║  ➤ Ex-AI Intern @ RIB Software     ║
+║  ➤ Technical Convener, AMBIORA     ║
+║  ➤ Built RAG pipelines w/ HyDE     ║
+║  ➤ Shipped a live esports platform ║
+║  ➤ Building campus-scale systems   ║
+╚═════════════════════════════════════╝
 ```
 
 </td>
@@ -170,16 +169,16 @@
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  SKILL CALIBRATION MATRIX                            │
+│  SKILL CALIBRATION MATRIX                           │
 ├─────────────────────────────────────────────────────┤
-│  Python           ████████████████░░░░  80%          │
-│  JavaScript        ██████████████░░░░░░  70%          │
-│  Next.js / React   ████████████████░░░░  80%          │
-│  Node.js           ██████████████░░░░░░  70%          │
-│  LangChain / RAG   ██████████████████░░  90%          │
-│  MongoDB           █████████████░░░░░░░  65%          │
-│  Supabase          ███████████████░░░░░  75%          │
-│  Git / GitHub      ████████████████████  100%         │
+│  Python           ████████████████░░░░  80%         │
+│  JavaScript        ██████████████░░░░░░  70%        │
+│  Next.js / React   ████████████████░░░░  80%        │
+│  Node.js           ██████████████░░░░░░  70%        │
+│  LangChain / RAG   ██████████████████░░  90%        │
+│  MongoDB           █████████████░░░░░░░  65%        │
+│  Supabase          ███████████████░░░░░  75%        │
+│  Git / GitHub      ████████████████████  100%       │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -195,16 +194,16 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║  AI INTERN — RIB Software           [ June – July ]         ║
+║  AI INTERN — RIB Software           [ June – July ]       ║
 ╠═══════════════════════════════════════════════════════════╣
-║  ▸ Built a PDF-based RAG chatbot using LangChain,           ║
-║    designing the full pipeline end-to-end                   ║
-║  ▸ Preprocessed PDFs with chunking strategies for            ║
-║    retrieval-ready content                                   ║
-║  ▸ Stored & queried chunks via a vector database for         ║
-║    semantic search                                            ║
-║  ▸ Implemented HyDE (Hypothetical Document Embeddings)       ║
-║    to improve retrieval relevance                             ║
+║  ▸ Built a PDF-based RAG chatbot using LangChain,         ║
+║    designing the full pipeline end-to-end                 ║
+║  ▸ Preprocessed PDFs with chunking strategies for         ║
+║    retrieval-ready content                                ║
+║  ▸ Stored & queried chunks via a vector database for      ║
+║    semantic search                                        ║
+║  ▸ Implemented HyDE (Hypothetical Document Embeddings)    ║
+║    to improve retrieval relevance                         ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
@@ -258,10 +257,10 @@
 <td width="50%">
 
 ```
-┌──────────────────────────────────┐
-│ 🏆 AMBIORA ESPORTS PLATFORM        │
-│    Live — April '26                │
-├──────────────────────────────────┤
+┌───────────────────────────────────┐
+│ 🏆 AMBIORA ESPORTS PLATFORM       │
+│    Live — April '26               │
+├───────────────────────────────────┤
 │ Tournament management system for  │
 │ a live tech fest. Role-based      │
 │ Admin/Game Leader access, auto    │
@@ -269,29 +268,29 @@
 │ Managed 40+ teams, 45+ players,   │
 │ 25+ matches. Cut manual effort    │
 │ by 80–90%.                        │
-│                                    │
+│                                   │
 │ [Next.js] [Supabase] [Full Stack] │
-└──────────────────────────────────┘
+└───────────────────────────────────┘
 ```
 
 </td>
 <td width="50%">
 
 ```
-┌──────────────────────────────────┐
-│ 🗂️ EVENT MANAGEMENT SYSTEM (EMS)   │
-│    Final approval stage            │
-├──────────────────────────────────┤
+┌───────────────────────────────────┐
+│ 🗂️ EVENT MANAGEMENT SYSTEM (EMS)  │
+│    Final approval stage           │
+├───────────────────────────────────┤
 │ Centralized platform to manage    │
 │ event workflows, registrations    │
 │ and coordination. Structured for  │
 │ participant data, scheduling and  │
 │ real-time tracking. Cleared all   │
 │ approvals with Campus Director,   │
-│ NMIMS Shirpur.                     │
-│                                    │
+│ NMIMS Shirpur.                    │
+│                                   │
 │ [Next.js] [Node.js] [MongoDB]     │
-└──────────────────────────────────┘
+└───────────────────────────────────┘
 ```
 
 </td>
@@ -300,35 +299,35 @@
 <td width="50%">
 
 ```
-┌──────────────────────────────────┐
-│ 🛂 CAMPUSGRID — LEAVE SYSTEM       │
-├──────────────────────────────────┤
+┌───────────────────────────────────┐
+│ 🛂 CAMPUSGRID — LEAVE SYSTEM     │
+├───────────────────────────────────┤
 │ Role-based leave management for   │
 │ Student / Warden / Guard.         │
 │ PENDING → APPROVED → OUT →        │
 │ RETURNED lifecycle. QR-based      │
 │ transit verification for secure   │
 │ exit/entry. Real-time dashboards. │
-│                                    │
+│                                   │
 │ [Supabase Auth] [Next.js] [QR]    │
-└──────────────────────────────────┘
+└───────────────────────────────────┘
 ```
 
 </td>
 <td width="50%">
 
 ```
-┌──────────────────────────────────┐
-│ 🤖 PDF RAG CHATBOT                 │
-├──────────────────────────────────┤
+┌───────────────────────────────────┐
+│ 🤖 PDF RAG CHATBOT                │
+├───────────────────────────────────┤
 │ RAG chatbot answering questions   │
 │ over PDF documents. Full          │
 │ LangChain pipeline, chunked text  │
 │ in a vector database, HyDE for    │
 │ improved retrieval accuracy.      │
-│                                    │
+│                                   │
 │ [LangChain] [Python] [Vector DB]  │
-└──────────────────────────────────┘
+└───────────────────────────────────┘
 ```
 
 </td>
@@ -347,27 +346,27 @@
 ## <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="30"> LEADERSHIP & ACHIEVEMENTS.log
 
 ```
-┌────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────┐
 │  POSITIONS OF RESPONSIBILITY                        │
-├────────────────────────────────────────────────────┤
+├─────────────────────────────────────────────────────┤
 │  ▸ Technical Convener — AMBIORA TechFest            │
 │    Led technical execution of esports & tech events │
 │    Managed deployment & real-time troubleshooting   │
-│                                                       │
+│                                                     │
 │  ▸ Core Committee — Event Management                │
-│    Organized hackathons, cybersecurity events,       │
-│    esports tournaments; logistics & real-time        │
-│    problem solving                                    │
-│                                                       │
-│  ▸ Computer Society of India (CSI)                   │
-│    Assisted in organizing technical events/workshops │
-├────────────────────────────────────────────────────┤
-│  ACHIEVEMENTS                                         │
-├────────────────────────────────────────────────────┤
-│  ★ UNHRC (MUN) Delegate                               │
-│  ★ Google Cloud Study Jam                             │
-│  ★ DPS National Football Tournament                   │
-└────────────────────────────────────────────────────┘
+│    Organized hackathons, cybersecurity events,      │
+│    esports tournaments; logistics & real-time       │
+│    problem solving                                  │
+│                                                     │
+│  ▸ Computer Society of India (CSI)                  │
+│    Assisted in organizing technical events/workshops│
+├─────────────────────────────────────────────────────┤
+│  ACHIEVEMENTS                                       │
+├─────────────────────────────────────────────────────┤
+│  ★ UNHRC (MUN) Delegate                            │
+│  ★ Google Cloud Study Jam                          │
+│  ★ DPS National Football Tournament                │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -385,13 +384,14 @@
 ╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝
 
 [ HOTBAR ]
-┌────┬────┬────┬────┬────┬────┬────┬────┬────┐
-│ 🗡️ │ ⛏️ │ 🪓 │ 🏹 │ 🧱 │ 🔥 │ 💎 │ 🐚 │ 🍖 │
-└────┴────┴────┴────┴────┴────┴────┴────┴────┘
+┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┐
+│ 🗡️  │ ⛏️ │  🪓 │ 🏹 │ 🧱  │ 🔥 │ 💎  │ 🐚 │ 🍖 │
+└─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┘
   Sword  Pick  Axe  Bow  Blocks Fire Diamond Shell Food
 
 [ HEALTH ]   ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️  20/20
 [ HUNGER ]   🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗  20/20
+
 [ XP BAR ]   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  LVL 47
 
 [ NETHER PORTAL STATUS ]   ▓▓▓▓▓▓▓▓▓▓  ACTIVE — obsidian frame stable
@@ -412,21 +412,23 @@
 </div>
 
 ```
-╔════════════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════╗
 ║  V — SWAPNIL.EXE                     [ NETRUNNER ]   ║
-╠════════════════════════════════════════════════════╣
+╠══════════════════════════════════════════════════════╣
 ║  CYBERWARE                                           ║
 ║   ▸ Kiroshi Optics Mk.3 ......... INSTALLED          ║
 ║   ▸ RAG Neural Implant .......... INSTALLED          ║
-║   ▸ Sandevistan .................. CHARGING (78%)     ║
-║                                                        ║
-║  RAM (HACKING BUFFER)                                 ║
+║   ▸ Sandevistan .................. CHARGING (78%)    ║
+║                                                      ║
+║  RAM (HACKING BUFFER)                                ║
+║                                                      ║
 ║   ▓▓▓▓▓▓▓▓░░  8/10 UNITS FREE                        ║
-║                                                        ║
-║  NEURAL LINK ......... STABLE                         ║
-║  POWER LEVEL .......... ▓▓▓▓▓▓▓▓▓░ 92%                ║
-║  STATUS ................ JACKED IN                    ║
-╚════════════════════════════════════════════════════╝
+║                                                      ║
+║  NEURAL LINK ......... STABLE                        ║
+║                                                      ║
+║  POWER LEVEL .......... ▓▓▓▓▓▓▓▓▓░ 92%               ║
+║  STATUS ................ JACKED IN                   ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -441,15 +443,15 @@
 
 ```
 ┌──────────────────────────────────────────────┐
-│  J.A.R.V.I.S SYSTEM STATUS                    │
+│  J.A.R.V.I.S SYSTEM STATUS                   │
 ├──────────────────────────────────────────────┤
-│  CPU USAGE ........... ▓▓▓▓▓▓▓░░░  71%        │
-│  NEURAL ENGINE ........ ▓▓▓▓▓▓▓▓▓░ 95%        │
-│  POWER CORE (ARC) ..... ▓▓▓▓▓▓▓▓▓▓ 100%       │
-│  MISSION STATUS ........ IN PROGRESS          │
+│  CPU USAGE ........... ▓▓▓▓▓▓▓░░░  71%       │
+│  NEURAL ENGINE ........ ▓▓▓▓▓▓▓▓▓░ 95%       │
+│  POWER CORE (ARC) ..... ▓▓▓▓▓▓▓▓▓▓ 100%      │
+│  MISSION STATUS ........ IN PROGRESS         │
 ├──────────────────────────────────────────────┤
-│  "Sir, all systems are optimal.               │
-│   Shall I deploy today's commits?"            │
+│  "Sir, all systems are optimal.              │
+│   Shall I deploy today's commits?"           │
 └──────────────────────────────────────────────┘
 ```
 
@@ -463,8 +465,8 @@
 
 ```
 ┌────────────────────────────────────────────┐
-│  ESTABLISHING SECURE CHANNEL...             │
-│  [OK] Encryption handshake complete          │
+│  ESTABLISHING SECURE CHANNEL...            │
+│  [OK] Encryption handshake complete        │
 └────────────────────────────────────────────┘
 ```
 
