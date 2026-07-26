@@ -305,7 +305,7 @@
 
 <!-- ════════════════ LEADERSHIP / ACHIEVEMENTS ════════════════ -->
 
-## <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="30"> LEADERSHIP & ACHIEVEMENTS.log
+## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/simpsongs.gif" width="60"> LEADERSHIP & ACHIEVEMENTS.log
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -335,7 +335,7 @@
 
 <!-- ════════════════ MINECRAFT SECTION ════════════════ -->
 
-## <img src="https://media.giphy.com/media/6ZmH1DACfaHXjebbWK/giphy.gif" width="30"> MINECRAFT_REALM.dat
+## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/minecraftrealm.gif" width="60"> MINECRAFT_REALM.dat
 
 ```
 ██╗███╗   ██╗██╗   ██╗███████╗███╗   ██╗████████╗ ██████╗ ██████╗ ██╗   ██╗
