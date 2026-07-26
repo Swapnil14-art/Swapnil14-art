@@ -459,7 +459,7 @@
 
 <!-- ════════════════ CONTACT TERMINAL ════════════════ -->
 
-## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/xT9IgG50Fb7Mi0prBC.webp" width="30"> COMMS_ARRAY // OPEN CHANNEL
+## <img src="https://raw.githubusercontent.com/Swapnil14-art/Swapnil14-art/main/xT9IgG50Fb7Mi0prBC.webp" width="30" alt="icon"> COMMS_ARRAY // OPEN CHANNEL
 <div align="center">
 
 ```
