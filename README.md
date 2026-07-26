@@ -367,7 +367,7 @@
 
 <!-- ════════════════ CONTACT TERMINAL ════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/WaveHiHand.webp" width="200" alt="icon"> COMMS_ARRAY // OPEN CHANNEL
+## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/WaveHiHand.webp" width="200" alt="icon"> COMMS_ARRAY // OPEN CHANNEL
 <div align="center">
 
 ```
