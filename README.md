@@ -34,7 +34,7 @@
 
 **◢◤ HOLOGRAPHIC UPLINK STABLE ◢◤**
 
-`SIGNAL_STRENGTH: ▓▓▓▓▓▓▓▓▓▓ 100%`
+`SIGNAL_STRENGTH: ▓▓▓▓▓▓▓▓▓▓░ 99%`
 
 </td>
 </tr>
