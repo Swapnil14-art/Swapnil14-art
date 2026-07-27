@@ -67,7 +67,7 @@
 
 ┌──(swapnil㉿neural-core)-[~]
 └─$ cat about.log
-> Second-year CS student focused on building real-world,
+> Third-year CS student focused on building real-world,
 > scalable systems — from RAG pipelines to full-stack platforms.
 
 ┌──(swapnil㉿neural-core)-[~]
