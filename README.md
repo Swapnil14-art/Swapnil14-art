@@ -78,13 +78,12 @@
 ┌──(swapnil㉿neural-core)-[~]
 └─$ cat currently_building.log
 > Event Management System (EMS) — final approval stage, NMIMS
-> Campus Digital Leave Management System (CampusGrid)
 
 ┌──(swapnil㉿neural-core)-[~]
 └─$ status --check
 > [OK] NEURAL LINK ......... ONLINE
 > [OK] AI INTERNSHIP ........ COMPLETE (RIB Software)
-> [OK] LIVE PROJECTS ........ 1 SHIPPED, 2 IN PROGRESS
+> [OK] LIVE PROJECTS ........ 1 SHIPPED, 1 IN PROGRESS
 > [OK] MOOD .................. SHIPPING CODE
 ```
 
