@@ -10,11 +10,6 @@
 
 <div align="center">
 
-<!-- ════════════════ BOOT SEQUENCE ════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1200&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=340&lines=Booting+SWAPNIL_OS+v4.0...;;Loading+Neural+Engine...;;Initializing+J.A.R.V.I.S+Core...;;Connecting+to+GitHub+Mainframe...;;Loading+RAG+%2F+LangChain+Modules...;;Access+Granted." alt="Boot Sequence" />
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=SWAPNIL%20SINGH%20//%20SYSTEM%20ONLINE&fontSize=38&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=BTech%20CSE%20%40%20NMIMS%20MPSTME%20%7C%20AI%20%2F%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
