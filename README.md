@@ -365,11 +365,6 @@
 <div align="center">
 
 ```
-┌────────────────────────────────────────────┐
-│  ESTABLISHING SECURE CHANNEL...            │
-│  [OK] Encryption handshake complete        │
-└────────────────────────────────────────────┘
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-singh-76883a329)
 [![Email](https://img.shields.io/badge/Email-B026FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wwhheeeellss20068288@gmail.com)
