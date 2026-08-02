@@ -364,8 +364,6 @@
 ## <img src="https://github.com/Swapnil14-art/Swapnil14-art/blob/main/Gifs/WaveHiHand.webp" width="200" alt="icon"> COMMS_ARRAY // OPEN CHANNEL
 <div align="center">
 
-```
-```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-singh-76883a329)
 [![Email](https://img.shields.io/badge/Email-B026FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wwhheeeellss20068288@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil14-art)
