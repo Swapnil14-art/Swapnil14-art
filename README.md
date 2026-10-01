@@ -111,7 +111,8 @@
 ╔═══════════════════════════════════════════╗
 ║  MISSION LOG                              ║
 ╠═══════════════════════════════════════════╣
-║  ➤ Ex-AI Intern @ RIB Software           ║
+║  ➤ AI Intern @ RIB Software              ║
+║  ➤ Web-Developer Intern @ Dronesz India  ║
 ║  ➤ Technical Head & Convener, AMBIORA    ║
 ║  ➤ Built RAG pipelines w/ HyDE           ║
 ║  ➤ Shipped a live esports platform       ║
