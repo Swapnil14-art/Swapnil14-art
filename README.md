@@ -108,15 +108,15 @@
 <td width="50%" valign="top">
 
 ```
-╔═════════════════════════════════════╗
-║  MISSION LOG                        ║
-╠═════════════════════════════════════╣
-║  ➤ Ex-AI Intern @ RIB Software     ║
-║  ➤ Technical Convener, AMBIORA     ║
-║  ➤ Built RAG pipelines w/ HyDE     ║
-║  ➤ Shipped a live esports platform ║
-║  ➤ Building campus-scale systems   ║
-╚═════════════════════════════════════╝
+╔═══════════════════════════════════════════╗
+║  MISSION LOG                              ║
+╠═══════════════════════════════════════════╣
+║  ➤ Ex-AI Intern @ RIB Software           ║
+║  ➤ Technical Head & Convener, AMBIORA    ║
+║  ➤ Built RAG pipelines w/ HyDE           ║
+║  ➤ Shipped a live esports platform       ║
+║  ➤ Building campus-scale systems         ║
+╚═══════════════════════════════════════════╝
 ```
 
 </td>
