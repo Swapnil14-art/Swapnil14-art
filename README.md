@@ -72,6 +72,7 @@
 └─$ status --check
 > [OK] NEURAL LINK ......... ONLINE
 > [OK] AI INTERNSHIP ........ COMPLETE (RIB Software)
+> [OK] WEB-DEVELOPER INTERN ........ COMPLETE (Dronesz India)
 > [OK] LIVE PROJECTS ........ 1 SHIPPED, 1 IN PROGRESS
 > [OK] MOOD .................. SHIPPING CODE
 ```
@@ -102,16 +103,16 @@
 <td width="50%" valign="top">
 
 ```
-╔═══════════════════════════════════════════╗
-║  MISSION LOG                              ║
-╠═══════════════════════════════════════════╣
-║  ➤ AI Intern @ RIB Software              ║
-║  ➤ Web-Developer Intern @ Dronesz India  ║
-║  ➤ Technical Head & Convener, AMBIORA    ║
-║  ➤ Built RAG pipelines w/ HyDE           ║
-║  ➤ Shipped a live esports platform       ║
-║  ➤ Building campus-scale systems         ║
-╚═══════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════╗
+║  MISSION LOG                                            ║
+╠═════════════════════════════════════════════════════════╣
+║  ➤ AI Intern @ RIB Software                            ║
+║  ➤ Web-Developer Intern @ Dronesz India                ║
+║  ➤ Technical Head'27 & Convener'26, TechFest (AMBIORA) ║
+║  ➤ Built RAG pipelines w/ HyDE                         ║
+║  ➤ Shipped a live esports platform                     ║
+║  ➤ Building campus-scale systems                       ║
+╚═════════════════════════════════════════════════════════╝
 ```
 
 </td>
