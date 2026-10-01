@@ -93,15 +93,15 @@
 <td width="50%" valign="top">
 
 ```
-╔══════════════════════════════════════════╗
-║  IDENTITY MODULE                         ║
-╠══════════════════════════════════════════╣
-║  ▸ Name......... Swapnil Singh           ║
-║  ▸ Class........ BTech CSE               ║
-║  ▸ Campus....... NMIMS MPSTME, Shirpur   ║
-║  ▸ Cohort....... 2024 – 2028             ║
-║  ▸ Focus........ AI + Full-Stack         ║
-╚══════════════════════════════════════════╝
+╔═════════════════════════════════════════════╗
+║  IDENTITY MODULE                            ║
+╠═════════════════════════════════════════════╣
+║  ▸ Name......... Swapnil Singh              ║
+║  ▸ Class........ BTech CSE                  ║
+║  ▸ Campus....... NMIMS MPSTME, Shirpur      ║
+║  ▸ Cohort....... 2024 – 2028                ║
+║  ▸ Focus........ AI + Full-Stack + Web Dev  ║
+╚═════════════════════════════════════════════╝
 ```
 
 </td>
